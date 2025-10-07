@@ -8,7 +8,7 @@ body {
     width: 300px;
     margin: 50px auto; /* 50px jarak atas/bawah< auto menengahkan kiri/kanan */
     padding:20px;
-    backgroud-color: white;
+    backgroud-color: purple;
     border-radius: 15px; /*Membuat sudut menjadi melengkung */
     box-shadow: 0 4px Bpxrgba(0,0,0,0,1);/* Efek bayangan */
     text align: center; /* Menengahkan semua teks di dalam kartu */
